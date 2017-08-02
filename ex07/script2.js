@@ -1,7 +1,4 @@
 //Lab 8 Dom Manipulation
-var headerLau = document.createElement('h1');
-headerLau.innerText = "Lauren's Shopping List";
-document.body.appendChild(headerLau);
 
 var shoppingList = [
   {
