@@ -1,0 +1,43 @@
+* {
+	font-family: roboto;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 10px;
+    width: 50%;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+tr:last-child {
+	background-color: red;
+	font-weight: bolder;
+}
+
+
+table {
+	margin: auto auto;
+}
+
+h3 {
+	text-align: center;
+	font-style: italic;
+
+}
+
+form {
+	text-align: center;
+
+}
+
+input {
+	margin: 0 5px;
+}
+
+button {
+	margin-left: 5px;
+}

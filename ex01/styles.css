@@ -1,0 +1,20 @@
+body{
+  background-image: url("https://media.giphy.com/media/3o7ZeFpK0qqSpsWNsA/giphy.gif");
+}
+
+.text{
+  color: darkOrchid;
+  text-align: center;
+  background-color: black;
+}
+
+.groceries{
+  color: plum;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: auto;
+  background-color: black;
+  font-size: 100%;]
+
+#list {}

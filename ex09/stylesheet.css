@@ -1,0 +1,9 @@
+body{font-family: sans-serif;width: 65%;}
+h1{text-align: center;}
+li {list-style-type: none;
+text-align: center;}
+p{text-align: center;}
+#red1{color:red; text-align: center;}
+.lables{text-align: center;}
+input{margin:auto;}
+.listed{color:green;}

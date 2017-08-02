@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="jquery-3.2.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+    <body>
+      <h3> Groceries </h3>
+
+      <div class = "wrapper">
+        <ol id = "listItems">
+        </ol>
+          <form action="">
+            <label>Grocery Item:
+            <input id="newItem" type="text" name="list_item" value=""></label><br/ >
+
+            <label>Price:
+            <input id="newItemPrice" type="number" name="price" value="" min = "0"></label><br />
+
+            <label>Quantity:
+                <input id="newItemQuantity" type="number" name="quantity" min = "0" max = "10" value=""></label><br />
+
+        <button type="button" id="addItem" onclick="addItem()">Click to add item to list</button>
+
+        <button type="button" onclick="totalBill()">Click for total bill</button>
+
+        <p> Your total is: $ <span id = "total">  </span>
+
+
+
+
+
+      </div>
+
+    <script type='text/javascript' src='JavaScript.js'></script>
+    </body>
+</html>

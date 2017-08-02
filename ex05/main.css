@@ -1,0 +1,17 @@
+html, body {
+    background-color: lightblue;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
+p {
+  width: 50%;
+  display: inline-block;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}

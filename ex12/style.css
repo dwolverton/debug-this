@@ -1,0 +1,26 @@
+html {
+  background-color: #e8d988;
+}
+label {
+  display: block;
+  float: right;
+}
+button {
+  display: block;
+  margin-bottom: 20px;
+  clear: both;
+  float: right;
+}
+header {
+  text-align: center;
+}
+main {
+  width: 400px;
+  margin: 0 auto;
+}
+h4 {
+  text-align: center;
+}
+h3 {
+  clear: both;
+}
